@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nithishk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\SampleMDB\\SampleMongoDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E090DEF2-7611-471A-9768-C2FDDCBFE1B1}|SampleMongoDB\\SampleMongoDB.csproj|c:\\users\\nithishk\\onedrive - infinite computer solutions (india) limited\\desktop\\samplemdb\\samplemongodb\\samplemongodb\\models\\documentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E090DEF2-7611-471A-9768-C2FDDCBFE1B1}|SampleMongoDB\\SampleMongoDB.csproj|solutionrelative:samplemongodb\\models\\documentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E090DEF2-7611-471A-9768-C2FDDCBFE1B1}|SampleMongoDB\\SampleMongoDB.csproj|c:\\users\\nithishk\\onedrive - infinite computer solutions (india) limited\\desktop\\samplemdb\\samplemongodb\\samplemongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E090DEF2-7611-471A-9768-C2FDDCBFE1B1}|SampleMongoDB\\SampleMongoDB.csproj|solutionrelative:samplemongodb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E090DEF2-7611-471A-9768-C2FDDCBFE1B1}|SampleMongoDB\\SampleMongoDB.csproj|c:\\users\\nithishk\\onedrive - infinite computer solutions (india) limited\\desktop\\samplemdb\\samplemongodb\\samplemongodb\\samplemongodb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E090DEF2-7611-471A-9768-C2FDDCBFE1B1}|SampleMongoDB\\SampleMongoDB.csproj|solutionrelative:samplemongodb\\samplemongodb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DocumentModel.cs",
+              "DocumentMoniker": "C:\\Users\\nithishk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\SampleMDB\\SampleMongoDB\\SampleMongoDB\\Models\\DocumentModel.cs",
+              "RelativeDocumentMoniker": "SampleMongoDB\\Models\\DocumentModel.cs",
+              "ToolTip": "C:\\Users\\nithishk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\SampleMDB\\SampleMongoDB\\SampleMongoDB\\Models\\DocumentModel.cs",
+              "RelativeToolTip": "SampleMongoDB\\Models\\DocumentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T12:02:45.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nithishk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\SampleMDB\\SampleMongoDB\\SampleMongoDB\\Program.cs",
+              "RelativeDocumentMoniker": "SampleMongoDB\\Program.cs",
+              "ToolTip": "C:\\Users\\nithishk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\SampleMDB\\SampleMongoDB\\SampleMongoDB\\Program.cs",
+              "RelativeToolTip": "SampleMongoDB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T12:01:45.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SampleMongoDB",
+              "DocumentMoniker": "C:\\Users\\nithishk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\SampleMDB\\SampleMongoDB\\SampleMongoDB\\SampleMongoDB.csproj",
+              "RelativeDocumentMoniker": "SampleMongoDB\\SampleMongoDB.csproj",
+              "ToolTip": "C:\\Users\\nithishk\\OneDrive - Infinite Computer Solutions (India) Limited\\Desktop\\SampleMDB\\SampleMongoDB\\SampleMongoDB\\SampleMongoDB.csproj*",
+              "RelativeToolTip": "SampleMongoDB\\SampleMongoDB.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-25T12:00:30.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
